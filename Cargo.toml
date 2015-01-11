@@ -1,0 +1,5 @@
+[package]
+
+name = "rust-playground"
+version = "0.0.1"
+authors = ["Pavel Filonov <filonovpv@gmail.com>"]
